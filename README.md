@@ -27,6 +27,8 @@ No advanced statistical or machine learning models are applied in this project. 
 ## Analysis & Visualizations
 
 * Candlestick Chart: A candlestick chart is generated to display Bitcoin price trends, including opening, closing, high, and low prices for each day.
+* ![image](https://github.com/user-attachments/assets/143cf44d-6a31-4e6f-a02d-1fee6cfc507c)
+
 * Interactive Visualization: The chart is saved as an HTML file for interactive exploration.
 ## Conclusion and Recommendation
 This project provides a clear visual representation of Bitcoin’s price movements over the past 30 days. The candlestick chart is useful for identifying trends and making informed decisions about Bitcoin investments. Users are encouraged to explore the chart interactively to gain insights into market trends.
